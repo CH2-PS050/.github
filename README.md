@@ -49,8 +49,8 @@
     <td>Putu Annand Kurnia Iswari</td>
     <td>Universitas Gadjah Mada</td>
     <td>
-      <a href="https://www.linkedin.com/in/annandiswari"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://github.com/bleustery"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/annandiswari" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://github.com/bleustery" target="_blank"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
   </tr>
 
@@ -62,8 +62,8 @@
     <td>Rio Alexander Audino</td>
     <td>Institut Teknologi Bandung</td>
     <td>
-      <a href="https://www.linkedin.com/in/rio-audino"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://github.com/Audino723"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/rio-audino" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://github.com/Audino723" target="_blank"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
   </tr>
 
@@ -75,8 +75,8 @@
     <td>Brian Sangapta</td>
     <td>Universitas Telkom</td>
     <td>
-      <a href="https://www.linkedin.com/in/briansangapta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://github.com/z0zero"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/briansangapta" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://github.com/z0zero" target="_blank"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
   </tr>
 
@@ -88,8 +88,8 @@
     <td>Lyora Felicya</td>
     <td>Institut Teknologi Bandung</td>
     <td>
-      <a href="https://www.linkedin.com/in/lyorafelicya"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://github.com/lyorafelicya"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/lyorafelicya" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://github.com/lyorafelicya" target="_blank"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
   </tr>
 
@@ -101,8 +101,8 @@
     <td>Claudia</td>
     <td>Institut Teknologi Bandung</td>
     <td>
-      <a href="https://www.linkedin.com/in/clauculus"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://github.com/clauculus"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/clauculus" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://github.com/clauculus" target="_blank"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
   </tr>
 
@@ -114,8 +114,8 @@
     <td>Firdaus Putra Maulidyanu</td>
     <td>Universitas Jember</td>
     <td>
-      <a href="https://www.linkedin.com/in/firdaus-putra-maulidyanu-b7642a220"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://github.com/Yanufirdaus"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/firdaus-putra-maulidyanu-b7642a220" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://github.com/Yanufirdaus" target="_blank"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
   </tr>
 
@@ -127,8 +127,8 @@
     <td>Ilham Jaya Kalipah</td>
     <td>Universitas Amikom Yogyakarta</td>
     <td>
-      <a href="https://www.linkedin.com/in/ilham-jaya-kalipah-b237682a0"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://github.com/ilhams-jaya"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/ilham-jaya-kalipah-b237682a0" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://github.com/ilhams-jaya" target="_blank"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
   </tr>
 </table>
